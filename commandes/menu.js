@@ -32,7 +32,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧${s.BOT}✧────◆
+╭────✧${steezy.BOT}✧────◆
 │   *Préfix* : ${s.PREFIXE}
 │   *Owner* : ${s.OWNER_NAME}
 │   *Mode* : ${mode}
@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
 │   *Plateforme* : ${os.platform()}
 │   *Développer* : Djalega++ 
 │  & M๏𝓷keℽ D Lบffy
-╰─────✧WA-BOT✧─────◆ \n\n`;
+╰─────✧legendary-AI✧─────◆ \n\n`;
     
 let menuMsg = `
 👋 Hello ${nomAuteurMessage} 👋
@@ -67,7 +67,7 @@ let menuMsg = `
 *»»————— ★ —————««*
 "To use a command, insert ${prefixe} followed by the command_name."
  
-    Powered by Zokou-MD
+    Powered by legendary-AI
                                                 
 *»»————— ★ —————««*
 `;
