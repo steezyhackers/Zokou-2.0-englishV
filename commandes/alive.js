@@ -6,7 +6,7 @@ const s = require(__dirname + "/../set");
 zokou(
     {
         nomCom : 'alive',
-        categorie : 'General'
+        categorie : 'legendary-AI'
         
     },async (dest,zk,commandeOptions) => {
 
@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *Zokou_MD version 2.0*`
+ *legendary-AI*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
