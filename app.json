@@ -10,7 +10,7 @@
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":"#",
+      "value":"!",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -35,11 +35,11 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Zokou-MD",
-      "required":false
+      "value":"legendary-AI",
+      "required":true
 
     } ,
-     "BOT_MENU_LINKS" : {
+     "BOT_MENU_LINKS" : {https://imgur.com/a/Raz8xqC
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
       "value":"https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg",
