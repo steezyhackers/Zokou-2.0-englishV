@@ -1,9 +1,9 @@
 {
-  "name":"Zokou-2.0",
-  "description":"bot whatsapp développé par djalega++",
+  "name":"legendary-AI",
+  "description":"for the legends",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
-  "repository":"https://github.com/djalega8000/Zokou-2.0",
+  "repository":"https://github.com/steezyhackers/Zokou-2.0-englishV",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -39,10 +39,10 @@
       "required":true
 
     } ,
-     "BOT_MENU_LINKS" : {https://imgur.com/a/Raz8xqC
+     "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg",
+      "value":"https://imgur.com/a/Raz8xqC",
       "required":false
        
      },
