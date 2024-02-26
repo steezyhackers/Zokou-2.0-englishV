@@ -526,7 +526,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Zoou-Md',
+                pack: 'legendary-AI',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -854,7 +854,7 @@ ${metadata.desc}`;
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `╔════◇
-║ 『𝐙𝐨𝐤𝐨𝐮-𝐌𝐃』
+║ 『legendary-AI』
 ║    Prefix : [ ${prefixe} ]
 ║    Mode :${md}
 ║    Total Commandes : ${evt.cm.length}︎
